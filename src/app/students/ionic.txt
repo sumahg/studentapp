@@ -1,0 +1,8 @@
+npm istall -g ionic
+ionic start personApp tabs
+ionic serve
+
+-------
+android studio
+android sdk
+Xcode
